@@ -1,4 +1,4 @@
-# Associate Professor, Dr. Bing TANG
+# Dr. Bing TANG
 
 School of Computer Science and Engineering,   
 Hunan University of Science and Technology,   
