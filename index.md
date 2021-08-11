@@ -1,4 +1,4 @@
-# Dr. Bing TANG
+# Dr. Bing Tang
 
 School of Computer Science and Engineering,   
 Hunan University of Science and Technology,   
